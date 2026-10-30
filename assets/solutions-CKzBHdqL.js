@@ -1,0 +1,1 @@
+import{C as e,O as t,m as n,t as r,v as i}from"./mount-CPfrFi9J.js";import{t as a}from"./IndustryCards-DUq_xqwL.js";import{t as o}from"./CtaBand-O82Yy9Hm.js";var s=t();r((0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(i,{place:`solutions`,title:n.title,line:n.line}),(0,s.jsx)(e,{"aria-label":n.title,children:(0,s.jsx)(a,{})}),(0,s.jsx)(o,{})]}));

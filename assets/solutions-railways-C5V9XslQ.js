@@ -1,0 +1,1 @@
+import{O as e,t}from"./mount-CPfrFi9J.js";import{t as n}from"./SolutionPage-Cfwu3JNV.js";var r=e();t((0,r.jsx)(n,{sector:`railways`}));
