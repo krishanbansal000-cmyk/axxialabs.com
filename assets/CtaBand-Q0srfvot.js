@@ -1,0 +1,1 @@
+import{I as e,O as t,_ as n,a as r,o as i,x as a}from"./mount-YkpCc9v2.js";var o=t();function s(){return(0,o.jsx)(n,{place:`cta`,title:r.title,children:(0,o.jsxs)(a,{href:i,size:`lg`,children:[r.button,` `,(0,o.jsx)(e,{})]})})}export{s as t};
